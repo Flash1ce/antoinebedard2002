@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @antoinebedard2002
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Antoine Bédard (@antoinebedard2002)
+
+- 👀 I’m interested in development
+- 🌱 I’m currently learning
+- 📫 How to reach me with my website beacod.com or by twitter @BedardDev 
 
 <!---
 antoinebedard2002/antoinebedard2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
